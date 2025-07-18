@@ -1,15 +1,15 @@
 {
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9",
-    "FINGERPRINT": "google/tokay_beta/tokay:16/BP31.250523.010/13667654:user/release-keys",
+    "MODEL": "Pixel 9a",
+    "FINGERPRINT": "google/tegu_beta/tegu:16/BP31.250610.004/13769805:user/release-keys",
     "BRAND": "google",
-    "PRODUCT": "tokay_beta",
-    "DEVICE": "tokay",
+    "PRODUCT": "tegu_beta",
+    "DEVICE": "tegu",
     "VERSION.RELEASE": "16",
-    "ID": "BP31.250523.010",
-    "VERSION.INCREMENTAL": "2025-06-05",
+    "ID": "BP31.250610.004",
+    "VERSION.INCREMENTAL": "13769805",
     "TYPE": "user",
     "TAGS": "release-keys",
-    "VERSION.SECURITY_PATCH": "2025-06-05",
+    "VERSION.SECURITY_PATCH": "2025-07-05",
     "VERSION.DEVICE_INITIAL_SDK_INT": "21"
 }

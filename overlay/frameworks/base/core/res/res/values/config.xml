@@ -4,17 +4,17 @@
     <!-- Build properties from a GMS certified device against current platform SPL level -->
     <string-array name="config_certifiedBuildProperties" translatable="false">
         <item>MANUFACTURER:Google</item>
-        <item>MODEL:Pixel 9</item>
-        <item>FINGERPRINT:google/tokay_beta/tokay:16/BP31.250523.010/13667654:user/release-keys</item>
+        <item>MODEL:Pixel 9a</item>
+        <item>FINGERPRINT:google/tegu_beta/tegu:16/BP31.250610.004/13769805:user/release-keys</item>
         <item>BRAND:google</item>
-        <item>PRODUCT:tokay_beta</item>
-        <item>DEVICE:tokay</item>
+        <item>PRODUCT:tegu_beta</item>
+        <item>DEVICE:tegu</item>
         <item>VERSION.RELEASE:16</item>
-        <item>ID:BP31.250523.010</item>
-        <item>VERSION.INCREMENTAL:13667654</item>
+        <item>ID:BP31.250610.004</item>
+        <item>VERSION.INCREMENTAL:13769805</item>
         <item>TYPE:user</item>  
         <item>TAGS:release-keys</item>
-        <item>VERSION.SECURITY_PATCH:2025-06-05</item>
+        <item>VERSION.SECURITY_PATCH:2025-07-05</item>
         <item>VERSION.DEVICE_INITIAL_SDK_INT:21</item>
     </string-array>
 </resources>
